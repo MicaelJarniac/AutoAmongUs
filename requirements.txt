@@ -23,7 +23,7 @@ pyperclip==1.8.0
 PyRect==0.1.4
 PyScreeze==0.1.26
 PyTweening==1.0.3
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.15.0
 toml==0.10.1
 typed-ast==1.4.1

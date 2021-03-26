@@ -27,7 +27,7 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 pyparsing==2.4.7
 pytest==6.1.0
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.9.27
 six==1.15.0
 testfixtures==6.14.2
